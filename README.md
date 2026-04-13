@@ -48,8 +48,10 @@ My original portfolio draft and the starting point of my frontend journey. This 
 
 ## Author
 
-**Mofeyisara Okunola** — Frontend Developer  
-[GitHub](https://github.com/Feyisara-o) · [WhatsApp](https://wa.me/2348130826644)
+**Mofeyisara Okunola** — Frontend Developer & UI/UX Designer
+- Portfolio: [feyisara-o.github.io](https://feyisara-o.github.io/feyisara-porfolio/)
+- GitHub: [@Feyisara-o](https://github.com/Feyisara-O)
+- LinkedIn: [linkedin.com/in/feyisara](https://www.linkedin.com/in/mofeyisara-okunola-73121b277?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
