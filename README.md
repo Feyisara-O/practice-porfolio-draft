@@ -4,11 +4,11 @@
 
 ## 🔗 Live Site
 
-**[feyisara-o.github.io/feyisara-porfolio](https://feyisara-o.github.io/feyisara-porfolio/)**
+**[👉My first portfolio ](https://feyisara-o.github.io/practice-porfolio-draft/)**
 
 ## About
 
-A clean, responsive personal portfolio showcasing my projects and skills as a frontend developer. This was my very first portfolio — later refined and redesigned as I grew, but preserved here as the starting point.
+My original portfolio draft and the starting point of my frontend journey. This project served as the foundation for my skills in responsive design, which I later refined and evolved into my current professional showcase at [Updated portfolio](https://feyisara-o.github.io/feyisara-porfolio/).
 
 ## Features
 
